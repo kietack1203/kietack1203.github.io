@@ -1,0 +1,24 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: 100% 100%;
+  background-image: url(/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.webp);
+  height: 80vh;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-image: url(/modern-dark-texture-background_1035-11632.webp);
+  height: 80vh;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-image: url(/Cert_WEB.png);
+  height: 80vh;
+}
+
+footer .d-flex {
+  gap: 20px;
+}
